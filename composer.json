@@ -3,7 +3,6 @@
     "type": "library",
     "description": "PHPJasperXML reads jrxmls templates a generates PDFs",
     "homepage": "https://github.com/jpaalmeida/phpjasperxml",
-    "license": "LGPL",
     "version": "dev-master",
     "authors": [
         {
